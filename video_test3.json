@@ -1,0 +1,364 @@
+{
+    "points": [
+        {
+            "Time": "0",
+            "Label result": "0.317236"
+        },
+        {
+            "Time": "1",
+            "Label result": "0.9968395"
+        },
+        {
+            "Time": "2",
+            "Label result": "0.99908304"
+        },
+        {
+            "Time": "3",
+            "Label result": "0.99980193"
+        },
+        {
+            "Time": "4",
+            "Label result": "0.99983555"
+        },
+        {
+            "Time": "5",
+            "Label result": "0.002012223"
+        },
+        {
+            "Time": "6",
+            "Label result": "0.05901897"
+        },
+        {
+            "Time": "7",
+            "Label result": "0.99986625"
+        },
+        {
+            "Time": "8",
+            "Label result": "0.99948204"
+        },
+        {
+            "Time": "9",
+            "Label result": "0.999087"
+        },
+        {
+            "Time": "10",
+            "Label result": "0.9995782"
+        },
+        {
+            "Time": "11",
+            "Label result": "0.9996195"
+        },
+        {
+            "Time": "12",
+            "Label result": "0.99968016"
+        },
+        {
+            "Time": "13",
+            "Label result": "0.9996725"
+        },
+        {
+            "Time": "14",
+            "Label result": "0.99965703"
+        },
+        {
+            "Time": "15",
+            "Label result": "0.999751"
+        },
+        {
+            "Time": "16",
+            "Label result": "0.99984264"
+        },
+        {
+            "Time": "17",
+            "Label result": "0.9998429"
+        },
+        {
+            "Time": "18",
+            "Label result": "0.99981046"
+        },
+        {
+            "Time": "19",
+            "Label result": "0.9997964"
+        },
+        {
+            "Time": "20",
+            "Label result": "0.9995381"
+        },
+        {
+            "Time": "21",
+            "Label result": "0.99981904"
+        },
+        {
+            "Time": "22",
+            "Label result": "0.9998313"
+        },
+        {
+            "Time": "23",
+            "Label result": "0.9997139"
+        },
+        {
+            "Time": "24",
+            "Label result": "0.9962571"
+        },
+        {
+            "Time": "25",
+            "Label result": "0.9990515"
+        },
+        {
+            "Time": "26",
+            "Label result": "0.9998696"
+        },
+        {
+            "Time": "27",
+            "Label result": "0.999866"
+        },
+        {
+            "Time": "28",
+            "Label result": "0.99986476"
+        },
+        {
+            "Time": "29",
+            "Label result": "0.99985856"
+        },
+        {
+            "Time": "30",
+            "Label result": "0.99985087"
+        },
+        {
+            "Time": "31",
+            "Label result": "0.99982154"
+        },
+        {
+            "Time": "32",
+            "Label result": "0.9998404"
+        },
+        {
+            "Time": "33",
+            "Label result": "0.9998553"
+        },
+        {
+            "Time": "34",
+            "Label result": "0.99984956"
+        },
+        {
+            "Time": "35",
+            "Label result": "0.99970967"
+        },
+        {
+            "Time": "36",
+            "Label result": "0.64399326"
+        },
+        {
+            "Time": "37",
+            "Label result": "0.4758362"
+        },
+        {
+            "Time": "38",
+            "Label result": "0.99830616"
+        },
+        {
+            "Time": "39",
+            "Label result": "0.9995736"
+        },
+        {
+            "Time": "40",
+            "Label result": "0.99416256"
+        },
+        {
+            "Time": "41",
+            "Label result": "0.55028063"
+        },
+        {
+            "Time": "42",
+            "Label result": "0.7988657"
+        },
+        {
+            "Time": "43",
+            "Label result": "0.020545155"
+        },
+        {
+            "Time": "44",
+            "Label result": "0.0034812689"
+        },
+        {
+            "Time": "45",
+            "Label result": "0.0004836917"
+        },
+        {
+            "Time": "46",
+            "Label result": "0.070587605"
+        },
+        {
+            "Time": "47",
+            "Label result": "0.0020249188"
+        },
+        {
+            "Time": "48",
+            "Label result": "0.021068841"
+        },
+        {
+            "Time": "49",
+            "Label result": "0.0024804175"
+        },
+        {
+            "Time": "50",
+            "Label result": "0.0013810694"
+        },
+        {
+            "Time": "51",
+            "Label result": "0.03763309"
+        },
+        {
+            "Time": "52",
+            "Label result": "0.00038185716"
+        },
+        {
+            "Time": "53",
+            "Label result": "0.00036376715"
+        },
+        {
+            "Time": "54",
+            "Label result": "0.000349015"
+        },
+        {
+            "Time": "55",
+            "Label result": "0.0003517568"
+        },
+        {
+            "Time": "56",
+            "Label result": "0.0003864467"
+        },
+        {
+            "Time": "57",
+            "Label result": "0.00038686395"
+        },
+        {
+            "Time": "58",
+            "Label result": "0.00038695335"
+        },
+        {
+            "Time": "59",
+            "Label result": "0.0014994144"
+        },
+        {
+            "Time": "60",
+            "Label result": "0.40446603"
+        },
+        {
+            "Time": "61",
+            "Label result": "0.822117"
+        },
+        {
+            "Time": "62",
+            "Label result": "0.0011031926"
+        },
+        {
+            "Time": "63",
+            "Label result": "0.0005546212"
+        },
+        {
+            "Time": "64",
+            "Label result": "0.00037679076"
+        },
+        {
+            "Time": "65",
+            "Label result": "0.00040388107"
+        },
+        {
+            "Time": "66",
+            "Label result": "0.00037050247"
+        },
+        {
+            "Time": "67",
+            "Label result": "0.00039219856"
+        },
+        {
+            "Time": "68",
+            "Label result": "0.0004862249"
+        },
+        {
+            "Time": "69",
+            "Label result": "0.31484887"
+        },
+        {
+            "Time": "70",
+            "Label result": "0.0006106496"
+        },
+        {
+            "Time": "71",
+            "Label result": "0.0007610619"
+        },
+        {
+            "Time": "72",
+            "Label result": "0.0005697906"
+        },
+        {
+            "Time": "73",
+            "Label result": "0.00057959557"
+        },
+        {
+            "Time": "74",
+            "Label result": "0.00078490376"
+        },
+        {
+            "Time": "75",
+            "Label result": "0.044665456"
+        },
+        {
+            "Time": "76",
+            "Label result": "0.0010702014"
+        },
+        {
+            "Time": "77",
+            "Label result": "0.006539881"
+        },
+        {
+            "Time": "78",
+            "Label result": "0.0012956262"
+        },
+        {
+            "Time": "79",
+            "Label result": "0.0028015077"
+        },
+        {
+            "Time": "80",
+            "Label result": "0.009596705"
+        },
+        {
+            "Time": "81",
+            "Label result": "0.0019093156"
+        },
+        {
+            "Time": "82",
+            "Label result": "0.00064986944"
+        },
+        {
+            "Time": "83",
+            "Label result": "0.003908843"
+        },
+        {
+            "Time": "84",
+            "Label result": "0.00088611245"
+        },
+        {
+            "Time": "85",
+            "Label result": "0.08999294"
+        },
+        {
+            "Time": "86",
+            "Label result": "0.0011635423"
+        },
+        {
+            "Time": "87",
+            "Label result": "0.00055268407"
+        },
+        {
+            "Time": "88",
+            "Label result": "0.00057833124"
+        },
+        {
+            "Time": "89",
+            "Label result": "0.0045819804"
+        }
+    ]
+}
