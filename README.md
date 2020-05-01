@@ -7,4 +7,4 @@ Links to the 5 test videos in Youtube:
 2. https://youtu.be/y3c6jwDN_YU
 3. https://youtu.be/3Xm2Xl0KuUI
 
-The figure and json file are submitted through ecampus. The CSCE636_train_part6 is used to train the model and save the parameters. Then CSCE636_test_part6 can be used to test the performance. The trained model is in Google Drive.
+The figure and json file are submitted through ecampus. The CSCE636_train_part8 is used to train the model and save the parameters. Then CSCE636_test_part8 can be used to test the performance. The trained model is in Google Drive.
