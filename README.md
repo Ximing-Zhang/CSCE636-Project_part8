@@ -1,7 +1,7 @@
 # CSCE636-Project_part8
-The trained model is too big to upload in Github. Therefore, the whole file, included the trained model and data set is shared in Google Drive: https://drive.google.com/drive/folders/1_2jtSnlzIlaFTNl8Elamk3E_K2n16CkG?usp=sharing
+The trained model is too big to upload in Github. Therefore, the whole file, included the trained model and data set is shared in Google Drive: https://drive.google.com/file/d/1p1YrXXWHh8AcBO-eX1k1sdAg23qYRsvY/view?usp=sharing
 
-Links to the 5 test videos in Youtube:
+Links to the test videos in Youtube:
 
 1. https://youtu.be/VnvK90P0Kd0
 2. https://youtu.be/y3c6jwDN_YU
